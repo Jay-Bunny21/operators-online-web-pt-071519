@@ -7,6 +7,7 @@ elsif speed < speed = 95
   return TRUE
 else speed == 40 and 60
   return FALSE
+  binding.pry
   end
 end
 
