@@ -5,7 +5,7 @@ if speed < 30
   return FALSE
 elsif speed < speed = 95 
   return TRUE
-else speed < 45
+else speed > 45
   return FALSE
   binding.pry
   end
