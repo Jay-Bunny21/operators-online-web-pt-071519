@@ -3,7 +3,7 @@ if speed < 30
   return True
   elsif speed < 40 and 60
   return False
-else speed > 60
+else speed < 95
   return True
 end
 end
