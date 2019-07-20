@@ -4,7 +4,7 @@ if speed < 30
   elsif speed > 40 and 60
   return TRUE
 else speed < 95
-  return FALSE
+  return TRUE
   end
 end
 
